@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tim@rotthege.com
+	name = Tim Schulze Sölde
